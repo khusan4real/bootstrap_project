@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "index.css",
+	"sources": [
+		"../sass/index.sass"
+	],
+	"sourcesContent": [
+		"h1 {\n    color: red;\n    background-color: {} }\n\n\ndiv {\n    width: 300px;\n    height: 300px;\n    background-color: blue; }\n\nbody {\n    background-color: black; }\n"
+	],
+	"names": [],
+	"mappings": ";AAAA,AAAA,EAAE,CAAC;EACC,KAAK,EAAE,GAAG;CACY;;;AAG1B,AAAA,GAAG,CAAC;EACA,KAAK,EAAE,KAAK;EACZ,MAAM,EAAE,KAAK;EACb,gBAAgB,EAAE,IAAI;CAAG;;;AAE7B,AAAA,IAAI,CAAC;EACD,gBAAgB,EAAE,KAAK;CAAG"
+}

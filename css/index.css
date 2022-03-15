@@ -1,0 +1,17 @@
+:root {
+  --kot: blue;
+}
+
+
+h1 {
+  color: var(--kot);
+  background-color: red;
+  text-align: center;
+  margin-top: 20%; }
+
+div {
+  width: 280px;
+  height: 280px;
+  background-color: var(--kot); }
+
+/*# sourceMappingURL=index.css.map */
